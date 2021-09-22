@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/IgnacioPrados/Contador/master/public/previewCounter.JPG)
 # Contador
-Responsive WebApp Counter made with React hook useState
+Responsive WebApp Counter made with React hook useState.
 <br><br>
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 
