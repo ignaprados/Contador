@@ -4,7 +4,7 @@ Responsive WebApp Counter made with React hook useState.
 <br><br>
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 
-https://emojipedia-ip.vercel.app
+https://contador-ip.vercel.app
 
 ## Description
 Web made with React, to practice hooks. It shows an interactive number counter.
