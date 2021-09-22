@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/IgnacioPrados/Emojipedia/master/public/preview.JPG)
+![banner](https://raw.githubusercontent.com/IgnacioPrados/Contador/master/public/previewCounter.JPG)
 # Contador
 Responsive WebApp Counter made with React hook useState
 <br><br>
